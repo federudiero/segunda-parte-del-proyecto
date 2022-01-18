@@ -1,0 +1,37 @@
+.imglogo{
+    height: 300px;
+    width: auto;
+    border-radius: 50%;
+    padding: 15px;
+    
+}
+.imgfooter{
+    height: 50px;
+    width: 50px;
+    border-radius: 90%;
+}
+.div__imagen-logo{
+    background-color:	rgb(218, 165, 32);
+  
+}
+.div__titulo-rja{
+    background-color: 	rgb(218, 165, 32);
+    color: rgb(19, 18, 18);
+
+}
+.h2_contacto{
+    color: rgb(202, 199, 199);
+}
+.p_contactos{
+    color: rgb(202, 199, 199);
+}
+.maps{
+    height: 400px;
+    width: 400px;
+    transition: 1s;
+}
+.maps:hover{
+    height: 500px;
+    width: 500px;
+    transition: 1s;
+}

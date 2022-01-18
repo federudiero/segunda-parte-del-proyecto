@@ -1,0 +1,21 @@
+.imglogo{
+    height: 200px;
+    width: auto;
+    border-radius: 50%;
+}
+
+.imgfooter{
+    height: 50px;
+    width: 50px;
+    border-radius: 90%;
+}
+.imgvision-mision{
+    height: 200px;
+    width:400px;
+    border-radius: 90%;
+}
+.imgnosotros{
+    height: 400px;
+    width: auto;
+
+}

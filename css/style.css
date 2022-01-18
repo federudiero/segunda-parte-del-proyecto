@@ -1,0 +1,55 @@
+.imglogo{
+    height: 300px;
+    width: auto;
+    border-radius: 50%;
+    padding: 15px;
+    
+}
+.imgmateriales{
+    height: 300px;
+    width: 300px;
+    border-radius: 90%;
+    padding: 10px;
+    transition: 2s;
+    
+    
+}
+.imgmateriales:hover{
+    height: 400px;
+    width: 400px;
+    border-radius: 90%;
+    padding: 10px;
+    transition: 2s;
+    
+    
+}
+.imgfooter{
+    height: 50px;
+    width: 50px;
+    border-radius: 90%;
+    
+}
+.div__imagen-logo{
+    background-color:	rgb(218, 165, 32);
+  
+}
+.div__titulo-rja{
+    background-color: 	rgb(218, 165, 32);
+    color: rgb(19, 18, 18);
+
+}
+.div-materiales{
+    
+    height:110px;
+    color: rgb(202, 199, 199);
+    padding: 20px;
+}
+.div-tarjeta{
+    background-color: 	rgb(218, 165, 32);
+
+}
+.div__proyecto{
+    height:110px;
+    color: rgb(202, 199, 199);
+    padding: 20px;
+}
